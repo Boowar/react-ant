@@ -1,0 +1,28 @@
+{
+  "name": "react-ant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boowar/react-ant.git"
+  },
+  "keywords": [
+    "react",
+    "css",
+    "UI"
+  ],
+  "author": {
+    "name": "Alexandr",
+    "email": "as.yarchuk@gmail.com",
+    "url": "https://github.com/boowar"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Boowar/react-ant/issues"
+  },
+  "homepage": "https://github.com/Boowar/react-ant#readme"
+}
